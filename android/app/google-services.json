@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "441596480355",
+    "project_id": "auth-bloc-f4dae",
+    "storage_bucket": "auth-bloc-f4dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441596480355:android:f0d661dd50e4411094a156",
+        "android_client_info": {
+          "package_name": "com.example.chat_tz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZcRgMZ-N5KET7aiXktskevgdetaPYluY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441596480355:android:218bb5fbad0ee41994a156",
+        "android_client_info": {
+          "package_name": "com.photo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZcRgMZ-N5KET7aiXktskevgdetaPYluY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
